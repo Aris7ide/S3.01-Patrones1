@@ -55,3 +55,5 @@ Necessites implementar un sistema que pugui:
 - de ahi he creado Address y Phone para US y para Spain implementeando la interfaz
 - He tardado un poco pero creando la interfaz ContactFabric he luego creado las dos fabric especificas para Spain y US. 
 - Creando una clase contact he podido crear Contacts de los diferentes paises sin formatteando automaticamente dependiendo del ContactFabric que especifique en el metodo.
+
+- he ido un poco mas allà creando una clase que pueda guardar contactos en una lista que sigue el pattern Singleton para ver como funcionarian el Singleton y el Abstract Fabric
