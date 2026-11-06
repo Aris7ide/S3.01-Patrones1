@@ -1,4 +1,5 @@
 package N2.productos;
 
-public class Address {
+public interface Address {
+    String address();
 }

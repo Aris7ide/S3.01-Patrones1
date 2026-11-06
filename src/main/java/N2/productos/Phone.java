@@ -1,4 +1,5 @@
 package N2.productos;
 
-public class Phone {
+public interface Phone {
+    String phoneNumber(int number);
 }

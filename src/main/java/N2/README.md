@@ -51,4 +51,6 @@ Necessites implementar un sistema que pugui:
 - El resultat de les dades de contacte generades ha de ser demostrat mitjançant tests unitaris.
 
 ### Execution
-- creo las dos clases abstractas Address y Phone
+- creo las dos interfaces Address y Phone
+- de ahi he creado Address y Phone para US y para Spain implementeando la interfaz
+- 
