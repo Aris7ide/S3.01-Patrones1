@@ -16,6 +16,6 @@ public class SpainAddress implements Address {
 
     @Override
     public String address() {
-        return state + street + ", " + zip + ", " + city;
+        return state +". " + street + ", " + zip + ", " + city;
     }
 }

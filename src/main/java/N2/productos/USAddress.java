@@ -16,6 +16,6 @@ public class USAddress implements Address {
 
     @Override
     public String address() {
-        return state + ": " + street + ", " + city + zip;
+        return state + ": " + street + ", " + city + " " + zip;
     }
 }

@@ -11,8 +11,8 @@ public class SpainPhone implements Phone {
     }
 
     @Override
-    public String phoneNumber(int number) {
-        return prefix + " " + number;
+    public String phoneNumber() {
+        return prefix + " " + phone;
     }
 
     public int getPhone() {
