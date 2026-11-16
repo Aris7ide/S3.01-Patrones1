@@ -20,4 +20,4 @@ Implementa diversas estrategias de generación de informes:
 - Excel
 - Word
 
-La demostración del uso de las estrategias mediante un servicio de informes que acepte cualquier implementación debe realizarse mediante tests unitarios.v
+La demostración del uso de las estrategias mediante un servicio de informes que acepte cualquier implementación debe realizarse mediante tests unitarios.
